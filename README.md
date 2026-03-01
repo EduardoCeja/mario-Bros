@@ -1,1 +1,1 @@
-2.5. Detección de colisiones
+2.6. El flujo de la interfaz
